@@ -1,10 +1,1 @@
-Assalam O Alaikum,
-My Name is Muhammad Nasir, I'm a Junior Flutter Developer at CrossCode.
-How are you doing? 
-I'm doing fine nasir, what about you? how's your first day going?
-I'm going outside wil be back soon
-I'm fine and my first day is going perfectly well? How's your business doing?
-Good Bye
-Have a nice day
-Will meet soon
-Thanks
+Assalam O Alaikum
