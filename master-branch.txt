@@ -1,3 +1,0 @@
-this is the file for master branch
-commit 2 for master branch
-commit 3 for master branch
